@@ -8,6 +8,11 @@
 
 ## 📖 About
 
+<p align="center">
+  <img width="48%" alt="Ninja Alley gameplay" src="https://github.com/user-attachments/assets/c7be4773-4736-4db0-98f7-0b2a94462757" />
+  <img width="48%" alt="Ninja Alley gameplay" src="https://github.com/user-attachments/assets/60f2b21c-a903-4cf7-8e93-b46abf604e2d" />
+</p>
+
 **Ninja Alley** is a 2D local-multiplayer fighting game where two players go head-to-head on the same keyboard. Move, jump, attack, and time your skills right — the one who lands the killing blow takes the round.
 
 This was built as my **CPE101 Engineering Exploration** project at KMUTT — a pair project I worked on with a friend.
@@ -52,6 +57,10 @@ My partner handled the heavier programming side — together we shipped somethin
 - That game design is 10% ideas and 90% iterating until it actually feels good
 - Unity basics — scenes, prefabs, and how UI elements connect to game logic
 - That playtesting with friends finds bugs you'd never catch yourself
+
+## 🤝 Built With
+
+Made together with [@KongWasupol](https://github.com/KongWasupol) — partner in code, partner in late-night debugging.
 
 ---
 
